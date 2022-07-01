@@ -1,0 +1,22 @@
+{
+  "name": "react-front-end",
+  "version": "1.0.0",
+  "description": "react app using webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "3salaz",
+    "node",
+    "js",
+    "react",
+    "front-end"
+  ],
+  "author": "3salaz",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
