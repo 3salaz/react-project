@@ -3,8 +3,7 @@ import React from "react";
 const Navbar = () => {
 
     return( 
-    <div>
-    <nav>
+    <nav className="nav_wrapper">
         <div>Logo</div>
         <ul>
             <li>Link1</li>
@@ -12,7 +11,6 @@ const Navbar = () => {
             <li>Link3</li>
         </ul>
     </nav>
-    </div>
     );
 };
   

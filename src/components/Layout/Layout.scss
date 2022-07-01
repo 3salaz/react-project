@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+}
+
+.layout_wrapper{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.main_wrapper{
+    flex: 1;
+    background-color: aqua;
+}
