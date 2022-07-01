@@ -4,7 +4,8 @@
   "description": "react app using webpack",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "serve": "webpack serve --mode development",
+    "build": "webpack --mode production"
   },
   "keywords": [
     "3salaz",
