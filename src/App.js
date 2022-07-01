@@ -1,6 +1,13 @@
 import React from "react";
+import Layout from "./components/Layout/Layout";
+
+
 const App = () => {
-  return <h1>Hello React</h1>;
+  return( 
+    <Layout>
+    <h1>Welcome to react!</h1>
+    </Layout>
+  );
 };
 
 export default App;
